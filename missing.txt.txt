@@ -1,0 +1,7 @@
+Missing nothing on the rubric.
+
+
+
+
+
+If I would say Im missing something it'd that the character can go off screen and projectiles dont despawn after leaving screen.

@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 91a1f7688f5d5784b851d5e81dbdc841
+  - enabled: 1
+    path: Assets/GalagaClone.unity
+    guid: 15870ff990760ac41917a282d689f353
+  m_configObjects: {}
